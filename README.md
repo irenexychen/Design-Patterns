@@ -1,11 +1,11 @@
 # Design-Patterns
 Learning, testing and applying design patterns:
 
-Design Patterns Used: 
+**Design Patterns Used: **
 - Abstract Factory, Singleton (located in CleaningManagement.py, related files: house_data.txt)
 
 
-Design Patterns Explored:
+**Design Patterns Explored:**
 - Abstract Factory
 - Factory
 - Singleton
